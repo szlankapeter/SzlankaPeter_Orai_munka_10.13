@@ -1,0 +1,56 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-image: url(kepek/hatterem3.jpg);
+}
+
+#container{
+    background-color: gray;
+    width: 60%;
+    margin: auto;
+}
+#container h1{
+    text-align: center;
+    border-bottom: 3px white dotted;
+    letter-spacing: 10px;
+}
+
+#content_1 img{
+    border: 2px white dotted;
+    float: left;
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#content_1 p{
+    text-align: justify;
+    margin-right: 10px;
+    font-size: 1.2em;
+}
+
+#content_2 p{
+    text-align: justify;
+    margin-left: 10px;
+    font-size: 1.2em;
+}
+#content_2 img{
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#content_3 img{
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#content_3 p{
+    text-align: justify;
+
+    font-size: 1.2em;
+}
+.torol{
+    clear: both;
+}
